@@ -52,10 +52,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+The motivation behind this project is to provide an enjoyable and practical learning experience that helps unilingual to multilingual users improve their vocabulary and communication skills. Developing this project carries the challenge of balancing education and entertainment through gamification. Nevertheless, the potential benefits are substantial, as the application can emerge as a premier tool for enhancing vocabulary and language proficiency for a diverse group of users.
+
+
 [![Spelling Bee App][project-screenshot]](https://github.com/user-attachments/assets/1d7b3158-09ef-4c20-9f43-3a60d1e0ead5)
 
 ### Built With
 
+[![Vite][Vite]][Vite-url]
 [![React][React.js]][React-url]
 [![Tailwind][Tailwind]][Tailwind-url]
 [![TypeScript][TypeScript]][TypeScript-url]
@@ -248,6 +252,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [auth-screenshot]: https://github.com/user-attachments/assets/2823adb0-11e7-4a25-a4c0-20f25e1e60a2
 [game-video]: https://github.com/user-attachments/assets/de857b3d-9aa8-455f-b9ed-4e550d317b58
 [history-video]: https://github.com/user-attachments/assets/313c612e-54ef-46e6-b874-b314bc950d7c
+[Vite]: https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white
+[Vite-url]: https://vite.dev/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [TypeScript]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
